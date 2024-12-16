@@ -30,7 +30,7 @@ A simple web app to manage notes, built with **React** and **Next.js**. It allow
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/xandervel98/note-app.git
 ```
 
 ### 2. Navigate to the project directory
